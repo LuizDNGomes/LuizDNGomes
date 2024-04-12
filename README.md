@@ -1,14 +1,11 @@
 ### Olá, sou o Luiz Henrique!
 
 
-- 🔭 Hoje Trabalho 
-- 🌱 Estudo
+- 🔭 Hoje Trabalho na Excel Engenharia Estrutural
+- 💻 Formado em Gestão de Tecnologia da Informação
 - 📫 How to reach me: LuizDNGomes
   
   
-  
-  
-  ##
   
   ##
   
