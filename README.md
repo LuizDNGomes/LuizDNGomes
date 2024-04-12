@@ -1,9 +1,9 @@
-### Olá sou o Felipe Bona !
+### Olá, sou o Luiz Henrique!
 
 
-- 🔭 Hoje Trabalho com Back-end e Front-end
-- 🌱 Estudo Ciência da Computação na Furb e faço cursos na ProWay e na Alura
-- 📫 How to reach me: Linkedin: (Felipe Bona)
+- 🔭 Hoje Trabalho 
+- 🌱 Estudo
+- 📫 How to reach me: LuizDNGomes
   
   
   
@@ -21,11 +21,10 @@
   ##
   
   <div>
-     <a href="https://www.linkedin.com/in/felipe-bona-174943213" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https:Viva Bill Gates" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-     <a href="https:(47)997360-777" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-     <a href="https:felipebonaregiskarmann@icloud.com" target="_blank"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></a>
-  <a href="https://instagram.com/felipe__bona" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "felipebonaregiskarmann@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
+     <a href="https://www.linkedin.com/in/luizdngomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://answers.microsoft.com/pt-br/profile/f12fd1a9-c778-4718-95c7-3dcb12feb2c0" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+     <a href="https://api.whatsapp.com/send?phone=5521976623377" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://www.instagram.com/luizdngomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luizdngomes@live.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
  </div>
