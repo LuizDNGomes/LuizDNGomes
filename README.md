@@ -1,13 +1,12 @@
-### Olá, sou o Luiz Henrique!
+Hello World, Luiz Henrique here.
 
 
-- 🔭 Hoje Trabalho na Excel Engenharia Estrutural
+- 🔭 Hoje Trabalho na Excel Engenharia Estrutural - SC
 - 💻 Formado em Gestão de Tecnologia da Informação
 - 📫 How to reach me: LuizDNGomes
   
   
-  
-  ##
+  Intusiasta e amante de tecnologia, principalmente tecnologias Microsoft. 
   
   <div>
     <a href="https://www.youtube.com/@BatalhaoWin" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
