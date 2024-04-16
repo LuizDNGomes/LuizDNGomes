@@ -20,7 +20,7 @@ Hello World, Luiz Henrique here.
 
 <!-- Inicio do jogo da cobrinha -->
 
-
+<!-- Para colocar o tema certo, basta alterar o light para dark e o dark para light no campo "media" -->
 <picture>
   <source
     media="(prefers-color-scheme: light)"
