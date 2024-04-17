@@ -35,3 +35,5 @@ Hello World, Luiz Henrique here.
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=luizdngomes&show_icons=true&theme=gotham" alt="LuizDNGomes" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizdngomes&layout=compact&theme=react"/></p>
