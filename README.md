@@ -1,6 +1,6 @@
 Hello World, Luiz Henrique here.
 
-
+- 🐣 Nasci no Rio de Janeiro e hoje moro em Santa Catarina
 - 🔭 Hoje Trabalho na Excel Engenharia Estrutural - SC
 - 💻 Formado em Gestão de Tecnologia da Informação
 - 📫 How to reach me: LuizDNGomes
