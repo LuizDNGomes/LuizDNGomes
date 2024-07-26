@@ -7,6 +7,7 @@ Hello World, Luiz Henrique here.
   
   
   Intusiasta e amante de tecnologia, principalmente tecnologias Microsoft. 
+  Excel ❤️‍🔥 // Power BI ❤️‍🔥 // Power Automate ❤️‍🔥 // Xbox //Outras tecnologias Microsoft ❤️‍🔥
   
   <div>
     <a href="https://www.youtube.com/@BatalhaoWin" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
