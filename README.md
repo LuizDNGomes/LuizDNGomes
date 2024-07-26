@@ -6,7 +6,8 @@ Hello World, Luiz Henrique here.
 - 📫 How to reach me: LuizDNGomes
   
   
-  Intusiasta e amante de tecnologia, principalmente tecnologias Microsoft. 
+  Intusiasta e amante de tecnologia, principalmente tecnologias Microsoft.
+  
   Excel ❤️‍🔥 // Power BI ❤️‍🔥 // Power Automate ❤️‍🔥 // Xbox //Outras tecnologias Microsoft ❤️‍🔥
   
   <div>
