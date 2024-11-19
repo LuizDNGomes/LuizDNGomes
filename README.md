@@ -18,6 +18,7 @@ Entusiasta e amante de tecnologia, principalmente tecnologias Microsoft. Gosto d
  -❣️Power Automate
  -❣️Python
  -❣️Estudos utilizando IA 🤖
+ -❣️Café ☕
 
 ### 🚀 Projetos
 - **Criador de Conteúdo no YouTube**: Sou autor de conteúdo no canal Batalhão Win, onde compartilhamos tutoriais, dicas e exclusividades sobre o universo Windows e outras tecnologias Microsoft.
