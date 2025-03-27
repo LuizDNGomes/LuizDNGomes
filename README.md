@@ -23,9 +23,11 @@ Entusiasta e amante de tecnologia, principalmente tecnologias Microsoft. Gosto d
 ### 🚀 Projetos
 - **Criador de Conteúdo no YouTube**: Sou autor de conteúdo no canal Batalhão Win, onde compartilhamos tutoriais, dicas e exclusividades sobre o universo Windows e outras tecnologias Microsoft.
 - **Automatização de Processos na Excel Engenharia**: Desenvolvemos uma ferramenta com Power Automate que automatiza o apontamento de horas dos colaboradores, integrando Excel e Power Automate para otimizar a gestão de tempo e aumentar a eficiência.
-- **Ferramentas DXF**: Criamos um pacote de ferramentas em Python que automatiza a criação, manipulação e processamento de arquivos DXF, substituindo procedimentos manuais por soluções automatizadas, melhorando a precisão e a produtividade.
+- **Ferramentas DXF**: Criamos um pacote de ferramentas em Python (que está sempre crescendo) que automatiza a criação, manipulação e processamento de arquivos DXF, substituindo procedimentos manuais por soluções automatizadas, melhorando a precisão e a produtividade.
 - **Automatização de envio de NFE**: Criamos um sistema em Python que questiona o usuário sobre a aviso de compra, anexa o PDF ou XML por fim, encaminha o e-mail padronizado e com todas as informações necessárias para os que devem tratar os dados de compra.
+- **Automatizações utilizando Python e Agendador de Tarefas do Windows**: Desenvolvi ferramentas que controlam planilhas e enviam avisos por e-mail ou prompt que utilizam Python e o Agendador de tarefas do Windows
 - **Estudo Diário em Soluções com Python**: Dedico-me diariamente ao estudo e desenvolvimento de soluções inovadoras utilizando Python, explorando novas bibliotecas e técnicas para resolver problemas complexos de forma eficiente.
+
 
 ### 🏆 Reconhecimento
 - **Engie Brasil**: Automatizamos a forma que o planejamento de manutenções era desenvolvido e como era inserido no sistema MAXIMO (utilizado pela RIOGALEÃO).
