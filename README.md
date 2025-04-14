@@ -11,6 +11,9 @@
 ### 🚀 Sobre Mim
 Entusiasta e amante de tecnologia, principalmente tecnologias Microsoft. Gosto de automatizar processos. Meu lema é: **Nunca trabalhe para o computador, pois ele que deve trabalhar para você.**
 
+
+<a href="https://github.com/LuizDNGomes/LuizDNGomes/blob/main/Programa%20de%20C%C3%A1lculo%20de%20Recalques%20(AOKI).md">Veja aqui todos os projetos que eu fiz ou faço parte</a>
+
 ### 🛠 Tecnologias e Ferramentas Favoritas ❤️‍🔥
 
  -❣️Excel
