@@ -30,6 +30,8 @@ Entusiasta e amante de tecnologia, principalmente tecnologias Microsoft. Gosto d
 - **Automatização de Processos na Excel Engenharia**: Desenvolvemos uma ferramenta com Power Automate que automatiza o apontamento de horas dos colaboradores, integrando Excel e Power Automate para otimizar a gestão de tempo e aumentar a eficiência.
 - **Ferramentas DXF**: Criamos um pacote de ferramentas em Python (que está sempre crescendo) que automatiza a criação, manipulação e processamento de arquivos DXF, substituindo procedimentos manuais por soluções automatizadas, melhorando a precisão e a produtividade.
 - **Automatização de envio de NFE**: Criamos um sistema em Python que questiona o usuário sobre a aviso de compra, anexa o PDF ou XML por fim, encaminha o e-mail padronizado e com todas as informações necessárias para os que devem tratar os dados de compra.
+- **PPadronização no envio de e-mails aos clientes**: Criamos um programa em Python que possui as fases de projeto da empresa. Ao selecionar a fase desejada, você preenche campos como destinatário e nome do projeto e o código envia um e-mail padronizado ao cliente, evitando que o usuário tenha que escrever o e-mail todo a mão. Criamos uma formatação profissional ao e-mail de saida.
+
 - **Automatizações utilizando Python e Agendador de Tarefas do Windows**: Desenvolvi ferramentas que controlam planilhas e enviam avisos por e-mail ou prompt que utilizam Python e o Agendador de tarefas do Windows
 - **Estudo Diário em Soluções com Python**: Dedico-me diariamente ao estudo e desenvolvimento de soluções inovadoras utilizando Python, explorando novas bibliotecas e técnicas para resolver problemas complexos de forma eficiente.
 
