@@ -14,7 +14,7 @@
 Entusiasta e amante de tecnologia, principalmente tecnologias Microsoft. Gosto de automatizar processos. Meu lema é: **Nunca trabalhe para o computador, pois ele que deve trabalhar para você.**
 
 <div align="center">
-  <a href="https://github.com/LuizDNGomes/LuizDNGomes/blob/main/Programa%20de%20C%C3%A1lculo%20de%20Recalques%20(AOKI).md" style="font-size: 20px;">Veja aqui alguns os projetos que eu fiz ou faço parte</a>
+  <a href="https://github.com/LuizDNGomes/LuizDNGomes/blob/main/Programa%20de%20C%C3%A1lculo%20de%20Recalques%20(AOKI).md" style="font-size: 20px;">Veja aqui alguns os projetos que eu fiz ou faço parte (SOILDEF - Para Geotecnicos)</a>
 </div>
 
 
