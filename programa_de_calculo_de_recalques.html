@@ -1,0 +1,150 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programa de Cálculo de Recalques</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        pre {
+            background-color: #f4f4f4;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        code {
+            font-family: monospace;
+        }
+    </style>
+</head>
+<body>
+    <h1>Programa de Cálculo de Recalques</h1>
+    <p>Este programa calcula os recalques (afundamentos) no solo causados por cargas de fundações (estacas cilíndricas ou prismáticas), com base nos métodos de Aoki & Lopes e Mindlin, utilizando a teoria da elasticidade.</p>
+
+    <h2>Explicação para o Usuário Final</h2>
+    <h3>O que o programa faz?</h3>
+    <p>Calcula os recalques esperados em pontos específicos do solo devido às cargas aplicadas por um grupo de estacas. Os resultados são apresentados em um arquivo <code>RESULTS.DAT</code> e podem ser exibidos na tela ou em um relatório detalhado (<code>printout.txt</code>).</p>
+
+    <h3>Como usar</h3>
+    <h4>1. Preparar os Arquivos de Entrada</h4>
+    <p>Você precisa de quatro arquivos de texto (.DAT) na mesma pasta do programa:</p>
+    <ul>
+        <li><strong>OBRA.DAT</strong>: Informações do projeto (Cliente, Obra, Título, Data).
+            <ul>
+                <li>Formato: 4 linhas (strings, com a data no formato <code>"DD","MM","YYYY"</code> ou <code>DD MM YYYY</code>).</li>
+            </ul>
+        </li>
+        <li><strong>SOLO.DAT</strong>: Propriedades das camadas do solo.
+            <ul>
+                <li>Formato: Número de perfis (NPERFIS), número máximo de camadas (NMCP), seguido por NCAM_i (número de camadas do perfil i) e, para cada camada, profundidade (PROF), módulo edométrico (EC), coeficiente de Poisson (MC).</li>
+            </ul>
+        </li>
+        <li><strong>Carga.dat</strong>: Dados das estacas e cargas.
+            <ul>
+                <li>Formato: Número de estacas (NE), número máximo de diagramas (NMT), seguido por tipo ('C' para cilíndrica, 'P' para prismática), coordenadas (XA, YA), dimensões, carga de ponta (PB), subdivisões (N1P, N2P, N1L, N3L, N2L para prismas), ângulo (prismas) e diagramas de carga lateral (D1, D2, F1, F2).</li>
+            </ul>
+        </li>
+        <li><strong>Pontos.dat</strong>: Pontos onde o recalque será calculado.
+            <ul>
+                <li>Formato: Número de pontos (NP), seguido por coordenadas (XB, YB, ZB) e perfil de solo (PDP) para cada ponto.</li>
+            </ul>
+        </li>
+    </ul>
+    <p><strong>Nota</strong>: Consulte os arquivos de exemplo para garantir o formato correto. O arquivo <code>Carga.dat</code> varia entre estacas cilíndricas e prismáticas.</p>
+
+    <h4>2. Executar o Programa</h4>
+    <ul>
+        <li><strong>Pré-requisitos</strong>: Python 3.x instalado.</li>
+        <li>Salve o script Python (ex: <code>aoki_recalque.py</code>) e os arquivos .DAT na mesma pasta.</li>
+        <li>Abra um terminal e navegue até a pasta com <code>cd caminho/para/pasta</code>.</li>
+        <li>Execute o programa: <code>python aoki_recalque.py</code>.</li>
+        <li>Uma janela será aberta para selecionar a pasta dos arquivos .DAT. Escolha a pasta correta e clique em "Selecionar pasta".</li>
+        <li>O programa lerá os dados, exibirá informações (pressione Enter para continuar) e calculará os recalques. Isso pode levar tempo, dependendo do número de estacas e pontos.</li>
+        <li>Após o cálculo, um menu de saída será exibido.</li>
+    </ul>
+
+    <h4>3. Ver os Resultados</h4>
+    <ul>
+        <li><strong>Menu de Saída</strong>:
+            <ul>
+                <li><strong>Opção 1 (Impressora/Arquivo)</strong>: Gera um relatório detalhado em <code>printout.txt</code>.</li>
+                <li><strong>Opção 2 (Tela)</strong>: Exibe dados de entrada e resultados no terminal (pressione Enter para avançar).</li>
+                <li><strong>Opção 3 (Sair)</strong>: Encerra o programa.</li>
+            </ul>
+        </li>
+        <li><strong>Arquivo RESULTS.DAT</strong>: Contém os resultados principais:
+            <ul>
+                <li>Coluna 1: Número do ponto.</li>
+                <li>Coluna 2: Recalque devido à carga de ponta (WP, em metros).</li>
+                <li>Coluna 3: Recalque devido ao atrito lateral (WL, em metros).</li>
+                <li>Coluna 4: Recalque total (WT = WP + WL, em metros).</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h4>4. Solução de Problemas</h4>
+    <p>Se houver erros, verifique:</p>
+    <ul>
+        <li>Existência e nomes corretos dos arquivos .DAT.</li>
+        <li>Formato correto dos dados nos arquivos (números válidos, ordem correta).</li>
+        <li>Instalação correta do Python.</li>
+    </ul>
+
+    <h2>Documentação Técnica para Desenvolvedores</h2>
+    <h3>Visão Geral</h3>
+    <ul>
+        <li><strong>Base</strong>: Conversão do programa <code>SOILDEF.BAS</code> (Aoki & Lopes, 1975/1991).</li>
+        <li><strong>Linguagem</strong>: Python 3.x.</li>
+        <li><strong>Dependências</strong>: <code>os</code>, <code>sys</code>, <code>math</code>, <code>tkinter</code> (para seleção de pasta), <code>datetime</code>. Não requer bibliotecas externas como NumPy.</li>
+    </ul>
+
+    <h3>Fluxo de Execução</h3>
+    <ol>
+        <li><strong>verificar_arquivos()</strong>: Solicita a pasta dos arquivos .DAT via Tkinter e verifica a existência de <code>OBRA.DAT</code>, <code>SOLO.DAT</code>, <code>Carga.dat</code>, <code>Pontos.dat</code>.</li>
+        <li><strong>apresentacao()</strong>: Exibe a tela inicial.</li>
+        <li><strong>job_information()</strong>: Lê dados gerais de <code>OBRA.DAT</code>.</li>
+        <li><strong>soil_section(), layers_input()</strong>: Lê propriedades do solo de <code>SOLO.DAT</code>.</li>
+        <li><strong>loaded_surfaces(), loaded_surfaces_input()</strong>: Lê dados das estacas de <code>Carga.dat</code>.</li>
+        <li><strong>point_coordinates()</strong>: Lê pontos de cálculo de <code>Pontos.dat</code>.</li>
+        <li><strong>processing()</strong>: Realiza os cálculos:
+            <ul>
+                <li>Itera sobre pontos (ip) e estacas (ine).</li>
+                <li>Chama <code>calc_cilindro</code> ou <code>calc_prisma</code> conforme o tipo de estaca.</li>
+                <li>Salva resultados em <code>RESULTS.DAT</code>.</li>
+            </ul>
+        </li>
+        <li><strong>output_menu()</strong>: Apresenta opções de saída ([1] Arquivo, [2] Tela, [3] Sair).</li>
+    </ol>
+
+    <h3>Funções de Cálculo</h3>
+    <ul>
+        <li><strong>calc_cilindro(ip, ine) / calc_prisma(ip, ine)</strong>: Calculam recalques WP e WL, subdividindo estacas em elementos menores e chamando <code>steinbrenner()</code> para cada um.</li>
+        <li><strong>steinbrenner(ip, c_load, p_load, rij)</strong>: Integra a solução de Mindlin por camadas de solo.</li>
+        <li><strong>mindlin(p, z, c, e, m, rij)</strong>: Calcula deslocamento vertical com base na teoria de Mindlin, com verificações numéricas.</li>
+    </ul>
+
+    <h3>Status Atual</h3>
+    <ul>
+        <li>Resultados estão próximos dos esperados, mas há pequenas discrepâncias na componente WL (atrito lateral).</li>
+        <li>Fórmula de <code>p_seg</code> para prismas foi ajustada para <code>p_seg = avg_f_k * d2d1n3 * segment_width</code>.</li>
+        <li>Possíveis melhorias:
+            <ul>
+                <li>Validar fórmula de <code>p_seg</code> contra a teoria original.</li>
+                <li>Testar fator de divisão alternativo (16).</li>
+                <li>Investigar sensibilidade numérica em casos extremos.</li>
+                <li>Refatorar com NumPy para maior eficiência.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h2>Licença</h2>
+    <p>Este projeto é fornecido sem garantia. Consulte a licença específica (se aplicável) ou entre em contato com os desenvolvedores para mais informações.</p>
+</body>
+</html>
