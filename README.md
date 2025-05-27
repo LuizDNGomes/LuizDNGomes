@@ -9,23 +9,32 @@
 - 🔭 Trabalho na Excel Engenharia Estrutural - SC
 - 💻 Formado em Gestão de Tecnologia da Informação (2022)
 - 📫 Como me encontrar: LuizDNGomes
-
+-----------------------
 ### 🚀 Sobre Mim
 Entusiasta e amante de tecnologia, principalmente tecnologias Microsoft. Gosto de automatizar processos. Meu lema é: **Nunca trabalhe para o computador, pois ele que deve trabalhar para você.**
+-----------------------
 
-<div align="center">
-  <a href="https://github.com/LuizDNGomes/LuizDNGomes/blob/main/Programa%20de%20C%C3%A1lculo%20de%20Recalques%20(AOKI).md" style="font-size: 20px;">Veja aqui alguns os projetos que eu fiz ou faço parte (SOILDEF - Para Geotecnicos)</a>
-</div>
+### 👨🏻‍💻 Veja aqui alguns os projetos que eu fiz ou faço parte
+
+ 
+  <a href="https://github.com/LuizDNGomes/LuizDNGomes/blob/main/Programa%20de%20C%C3%A1lculo%20de%20Recalques%20(AOKI).md" style="font-size: 20px;">SOILDEF - Para Geotecnicos</a>
+
+ 
+  <a href="https://github.com/LuizDNGomes/hora_bus/blob/main/README.md" style="font-size: 20px;">Horários de Viagem - LuizDNGomes</a>
+
+-----------------------
 
 
 ### 🛠 Tecnologias e Ferramentas Favoritas ❤️‍🔥
 
- -❣️Excel
- -❣️Power BI❣
- -❣️Power Automate
- -❣️Python
- -❣️Estudos utilizando IA 🤖
- -❣️Café ☕
+ -❣️`Excel`
+ -❣️`Power BI❣`
+ -❣️`Power Automate`
+ -❣️`Python`
+ -❣️`Estudos utilizando IA 🤖`
+ -❣️`Café ☕`
+ 
+-----------------------
 
 ### 🚀 Projetos
 - **Criador de Conteúdo no YouTube**: Sou autor de conteúdo no canal Batalhão Win, onde compartilhamos tutoriais, dicas e exclusividades sobre o universo Windows e outras tecnologias Microsoft.
@@ -37,10 +46,12 @@ Entusiasta e amante de tecnologia, principalmente tecnologias Microsoft. Gosto d
 - **Automatizações utilizando Python e Agendador de Tarefas do Windows**: Desenvolvi ferramentas que controlam planilhas e enviam avisos por e-mail ou prompt que utilizam Python e o Agendador de tarefas do Windows
 - **Estudo Diário em Soluções com Python**: Dedico-me diariamente ao estudo e desenvolvimento de soluções inovadoras utilizando Python, explorando novas bibliotecas e técnicas para resolver problemas complexos de forma eficiente.
 
+-----------------------
 
 ### 🏆 Reconhecimento
 - **Engie Brasil**: Automatizamos a forma que o planejamento de manutenções era desenvolvido e como era inserido no sistema MAXIMO (utilizado pela RIOGALEÃO).
 - **Excel Engenharia**: Automatizamos diversas rotinas que eram feitas manualmente aplicando o lema: deixe o computador trabalhar para você.
+-----------------------
 
 ### 📫 Como me encontrar
 <div>
@@ -52,12 +63,14 @@ Entusiasta e amante de tecnologia, principalmente tecnologias Microsoft. Gosto d
   <a href="https://www.instagram.com/luizdngomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:luizdngomes@live.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+-----------------------
 
 ### 🎮 Hobbies e Interesses
-- Automação de processos
-- Estudo e novos desafios me motivam!
-- Jogos no Xbox
-- Explorar novas tecnologias
+- `Automação de processos`
+- `Estudo e novos desafios me motivam!`
+- `Jogos no Xbox`
+- `Explorar novas tecnologias`
+-----------------------
 
 <!-- Inicio do jogo da cobrinha -->
 <picture>
