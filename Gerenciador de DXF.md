@@ -46,10 +46,4 @@ Este projeto é uma suíte de ferramentas em Python com interface gráfica (Tkin
 
 ---
 
-## Créditos
-
-Desenvolvido por Excel Engenharia - Todos os direitos reservados.
-
----
-
 **Este projeto demonstra habilidades em automação de processos CAD, integração com Excel, manipulação de arquivos e desenvolvimento de interfaces gráficas em Python.**
