@@ -10,9 +10,11 @@
 - 💻 Formado em Gestão de Tecnologia da Informação (2022)
 - 📫 Como me encontrar: LuizDNGomes
 -----------------------
+
 ### 🚀 Sobre Mim
+
 Entusiasta e amante de tecnologia, principalmente tecnologias Microsoft. Gosto de automatizar processos. Meu lema é: **Nunca trabalhe para o computador, pois ele que deve trabalhar para você.**
------------------------
+
 
 ### 👨🏻‍💻 Veja aqui alguns os projetos que eu fiz ou faço parte
 
