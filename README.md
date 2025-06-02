@@ -44,7 +44,7 @@ Entusiasta e amante de tecnologia, principalmente tecnologias Microsoft. Gosto d
 
 ### 🚀 Projetos
 <p align="center">
-  <a href="https://www.youtube.com/@BatalhaoWin" target="_blank">
+  <a href="https://www.youtube.com/@BatalhaoWin/videos" target="_blank">
     <img class="foto-perfil" src="https://yt3.googleusercontent.com/vUK4frrij_44NRYPuazhF9aB3U0mOzP7ZuJGzFp1J0Ok-kCQk4k148yjCkNwRluKoE-qppxx8w" alt="Logo Batalhão Win">
   </a>
 </p>
