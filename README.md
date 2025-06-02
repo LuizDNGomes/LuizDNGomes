@@ -43,6 +43,12 @@ Entusiasta e amante de tecnologia, principalmente tecnologias Microsoft. Gosto d
 -----------------------
 
 ### 🚀 Projetos
+<p align="center">
+  <a href="https://www.youtube.com/@BatalhaoWin" target="_blank">
+    <img class="foto-perfil" src="https://yt3.googleusercontent.com/vUK4frrij_44NRYPuazhF9aB3U0mOzP7ZuJGzFp1J0Ok-kCQk4k148yjCkNwRluKoE-qppxx8w" alt="Logo Batalhão Win">
+  </a>
+</p>
+
 - **Criador de Conteúdo no YouTube**: Sou autor de conteúdo no canal Batalhão Win, onde compartilhamos tutoriais, dicas e exclusividades sobre o universo Windows e outras tecnologias Microsoft.
 - **Automatização de Processos na Excel Engenharia**: Desenvolvemos uma ferramenta com Power Automate que automatiza o apontamento de horas dos colaboradores, integrando Excel e Power Automate para otimizar a gestão de tempo e aumentar a eficiência.
 - **Ferramentas DXF**: Criamos um pacote de ferramentas em Python (que está sempre crescendo) que automatiza a criação, manipulação e processamento de arquivos DXF, substituindo procedimentos manuais por soluções automatizadas, melhorando a precisão e a produtividade.
