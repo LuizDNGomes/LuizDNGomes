@@ -21,18 +21,22 @@ Este projeto é uma suíte de ferramentas em Python com interface gráfica (Tkin
 - Converte tabelas do Excel para o formato DXF, criando desenhos de tabelas prontos para uso em CAD.
 - Permite configurar alinhamento, largura das células e cor da tabela.
 
-### 5. Tratamento de DXF
+### 5. Desenho bloco variável
+- Converte pontos (X e Y) em um desenho em um bloco e calcula os ferros variáveis.
+- Permite configurar espaçamento vertical, horizontal e offset para distribuir os ferros.
+
+### 6. Tratamento de DXF
 - Automatiza operações comuns em arquivos DXF, como explodir blocos, apagar hachuras, converter círculos em arcos, entre outros.
 - Permite configurar sequências personalizadas de operações ou usar um padrão recomendado.
 
-### 6. Conversor DXF para DWG
+### 7. Conversor DXF para DWG
 - Converte arquivos DXF para DWG em diferentes versões, utilizando o ODA File Converter.
 - Permite definir o estilo de texto para compatibilidade com diferentes softwares CAD.
 
-### 7. Conversor DWG para DXF
+### 8. Conversor DWG para DXF
 - Converte arquivos DWG para DXF, facilitando a interoperabilidade entre diferentes plataformas CAD.
 
-### 8. Conversor DXF para Excel - Cabos de Protensão
+### 9. Conversor DXF para Excel - Cabos de Protensão
 - Extrai informações de cabos de protensão (TENDON e ELONG) de arquivos DXF e gera uma planilha Excel.
 - Útil para projetos que utilizam o ADAPT ou softwares similares.
 
