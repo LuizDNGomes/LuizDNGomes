@@ -19,7 +19,7 @@ Entusiasta e amante de tecnologia, principalmente tecnologias Microsoft. Gosto d
 ### 👨🏻‍💻 Veja aqui alguns os projetos que eu fiz ou faço parte
 
  
-  <a href="https://github.com/LuizDNGomes/LuizDNGomes/blob/main/Programa%20de%20C%C3%A1lculo%20de%20Recalques%20(AOKI).md" style="font-size: 20px;">✅SOILDEF - Para Geotecnicos</a>
+  <a href="https://github.com/LuizDNGomes/LuizDNGomes/blob/main/Programa%20de%20C%C3%A1lculo%20de%20Recalques%20(AOKI).md" style="font-size: 20px;">✅SDS Geotechnical - Para Geotecnicos</a>
 
  
   <a href="https://github.com/LuizDNGomes/hora_bus/blob/main/README.md" style="font-size: 20px;">✅Horários de Viagem</a>
