@@ -23,7 +23,6 @@ Entusiasta e amante de tecnologia, principalmente tecnologias Microsoft. Gosto d
    
  <a href="https://github.com/LuizDNGomes/hora_bus/blob/main/README.md" style="font-size: 20px;">✅Horários de Viagem</a>
 
-   <a href="https://github.com/LuizDNGomes/LuizDNGomes/blob/main/Gerenciador%20de%20DXF.md" style="font-size: 20px;">✅Blender Addons</a>
 
    <a href="https://github.com/LuizDNGomes/LuizDNGomes/blob/main/Gerenciador%20de%20DXF.md" style="font-size: 20px;">✅Gerenciador de DXF</a>
    
