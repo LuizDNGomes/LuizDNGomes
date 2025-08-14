@@ -1,9 +1,7 @@
 ## 👋 Olá, eu sou Luiz Henrique! (LuizDNGomes)
 
 ### Bem vindo!
-<div>
- <p align="left"><strong>Você é o meu visitante número: </strong><br> <img src="https://profile-counter.glitch.me/LuizDNGomes/count.svg"alt="contador de visitas"></p>
-</div>
+
 
 - 🐣 Nasci no Rio de Janeiro e hoje moro em Santa Catarina
 - 🔭 Trabalho na Excel Engenharia Estrutural - SC
