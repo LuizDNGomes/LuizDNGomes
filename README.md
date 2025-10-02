@@ -63,50 +63,15 @@ Entusiasta e amante de tecnologia, principalmente tecnologias Microsoft. Gosto d
 -----------------------
 
 ### 📫 Como me encontrar
-<!-- Linktree -->
-<a href="https://linktr.ee/luizdngomes" target="_blank">
-    <img src="https://img.shields.io/badge/linktree-42e45f?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
-</a>
-
-<!-- YouTube -->
-<a href="https://www.youtube.com/@BatalhaoWin" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>
-
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/luizdngomes/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<!-- Microsoft Answers -->
-<a href="https://answers.microsoft.com/pt-br/profile/f12fd1a9-c778-4718-95c7-3dcb12feb2c0" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft%20Answers-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Microsoft Answers">
-</a>
-
-<!-- WhatsApp -->
-<a href="https://api.whatsapp.com/send?phone=5521976623377" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
-
-<!-- Instagram -->
-<a href="https://www.instagram.com/luizdngomes" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-<!-- Email -->
-<a href="mailto:luizdngomes@live.com">
-    <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<!-- GitHub -->
-<a href="https://github.com/luizdngomes" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<!-- Microsoft Teams -->
-<a href="https://teams.microsoft.com/l/chat/0/0?users=luizdngomes@live.com" target="_blank">
-    <img src="https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Microsoft Teams">
-</a>
+<a href="https://linktr.ee/luizdngomes" target="_blank"><img src="https://img.shields.io/badge/linktree-42e45f?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree "></a> 
+<a href="https://www.youtube.com/@BatalhaoWin" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube "></a> 
+<a href="https://www.linkedin.com/in/luizdngomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn "></a> 
+<a href="https://answers.microsoft.com/pt-br/profile/f12fd1a9-c778-4718-95c7-3dcb12feb2c0" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Answers-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Microsoft Answers "></a> 
+<a href="https://api.whatsapp.com/send?phone=5521976623377" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a> 
+<a href="https://www.instagram.com/luizdngomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> 
+<a href="mailto:luizdngomes@live.com"><img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> 
+<a href="https://github.com/luizdngomes" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> 
+<a href="https://teams.microsoft.com/l/chat/0/0?users=luizdngomes@live.com" target="_blank"><img src="https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Microsoft Teams"></a> 
 
 ### 🎮 Hobbies e Interesses
 - `Automação de processos`
