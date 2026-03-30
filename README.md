@@ -96,10 +96,5 @@ Entusiasta e amante de tecnologia, principalmente tecnologias Microsoft. Gosto d
   />
 </picture>
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=luizdngomes&show_icons=true&theme=gotham" alt="LuizDNGomes" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizdngomes&layout=compact&theme=react"/>
-</p>
+
 Encontre o que nos une, não o que nos separa.
