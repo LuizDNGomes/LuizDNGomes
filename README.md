@@ -54,6 +54,7 @@ Entusiasta e amante de tecnologia, principalmente tecnologias Microsoft. Gosto d
 
 - **Automatizações utilizando Python e Agendador de Tarefas do Windows**: Desenvolvi ferramentas que controlam planilhas e enviam avisos por e-mail ou prompt que utilizam Python e o Agendador de tarefas do Windows
 - **Estudo Diário em Soluções com Python**: Dedico-me diariamente ao estudo e desenvolvimento de soluções inovadoras utilizando Python, explorando novas bibliotecas e técnicas para resolver problemas complexos de forma eficiente.
+- **Sistema ERP (Status de projeto, gestão de projetos e movimentação financeira)**: Desenvolvemos 3 programas que se conversam entre si, que antigamente era baseado em 3 arquivos .xlsx. O programa trouxe melhores resultados e otimizou o carregamento dos arquivos no Power BI geral da empresa.
 
 -----------------------
 
